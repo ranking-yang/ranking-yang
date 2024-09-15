@@ -29,5 +29,4 @@
   Azure Fundamentals
   <br>
   <br>
-  👉 <a href="mailto:"><img src="https://img.shields.io/badge/EMAIL ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> 👈
 </div>
