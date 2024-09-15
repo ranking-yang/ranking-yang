@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+there+It's+Me!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Hi,+there+It's+Me!)](https://git.io/typing-svg)
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=eunyooung&theme=graywhite&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
