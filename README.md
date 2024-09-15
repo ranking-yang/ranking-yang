@@ -1,9 +1,9 @@
 <div align="center">
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Hi,+there+It's+Me!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Hi,+there+Ranking+Yang!)](https://git.io/typing-svg)
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ranking-yang&theme=graywhite&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ranking-yang&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
   ### **Stack**  
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
