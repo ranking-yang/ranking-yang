@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Hi,+there+Welcome+to+Ranking+Yang!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Hi,+there;Welcome+to+Ranking+Yang!)](https://git.io/typing-svg)
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=ranking-yang&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
